@@ -14,7 +14,7 @@ O **Meli Intelligence Fabric Bot** é uma solução corporativa de ponta a ponta
 
 ---
 
-## 🏛️ Arquitetura do Projeto
+## 🏛️ Arquitetura do Projeto.
 
 ```text
 Microsoft Fabric (Medallion)                  Bot Meli Intelligence
