@@ -1,6 +1,6 @@
 # 🚀 Meli Intelligence Fabric Bot (@Joca_Meli_Fabric_bot)
 
-> **Assistente Executivo Inteligente para Mercado Livre integrado ao Microsoft Fabric (Arquitetura Medallion), DuckDB e Google Gemini Flash.**
+> **Assistente Executivo Inteligente para Mercado Livre integrado ao Microsoft Fabric (Arquitetura Medallion), DuckDB e Google Gemini Flash.***
 
 ---
 
